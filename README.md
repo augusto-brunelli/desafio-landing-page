@@ -2,6 +2,7 @@
 Desafio proposto pelo curso para criação de uma landing page 💻🚀
 
 [<img src="./gif-landing-page.gif" alt="Gif da landing page">](https://augusto-brunelli.github.io/desafio-landing-page/)
+
 [<img src="./gif-landing-page-mobile.gif" alt="Gif da landing page em tela menor">](https://augusto-brunelli.github.io/desafio-landing-page/)
 
 ## Linguagens utilizadas:
